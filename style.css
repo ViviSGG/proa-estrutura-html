@@ -162,10 +162,16 @@ footer h2 {
     margin: 20px 0;
 }
 
+fieldset {
+    display: flex;
+    margin: 10px 0;
+    width: 30vw;
+    justify-content: center;
+}
+
 form {
     display: flex;
     flex-direction: column;
-    padding-top: 12px;
 }
 
 input {
