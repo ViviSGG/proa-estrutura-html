@@ -51,6 +51,9 @@ a {
 h1 {
     font-size: 28px;
     color: white;
+    width: 76vw;
+    border: 2px solid;
+    text-align: center;
 }
 
 .box1 div {
@@ -70,6 +73,17 @@ h1 {
     justify-content: center;
     align-items: center;
     background-color: #1c3380;
+}
+
+.language img {
+    width: 14vw;
+    height: auto;
+}
+
+.language p {
+    width: 36vw;
+    text-align: justify;
+    font-size: 1rem;
 }
 
 .box2 {
